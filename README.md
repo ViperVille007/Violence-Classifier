@@ -1,4 +1,4 @@
-# Identfication of topics in newspaper articles and detecing incidents of violence in newspaper articles
+# Identfication of Topics in Times of India articles and Detecing Incidents of Violence
 
 
 I am grateful to, and sincerely thank the following eminent people for giving me the opportunity to work under their guidance and carry out the project work with ease:  
