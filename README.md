@@ -1,4 +1,4 @@
-# Identfication of Topics in Times of India articles and Detecing Incidents of Violence
+# Identification of Topic themes in Times of India articles and Detecting Incidents of Violence
 
 
 I am grateful to, and sincerely thank the following eminent people for giving me the opportunity to work under their guidance and carry out the project work with ease:  
@@ -135,10 +135,9 @@ THE FOLLOWING ARE PART OF FURTHER SCOPE OF RESEARCH:
 NER (Named entity recognition) is a technique to identify the different type of entities present in a piece of text  
 We are concerned with Cardinality   
 Further, this will help to identify no of casualties in a violent incident  
-CARDINALITY gives presence of numeric entities expressed in both integer and written forms   
-(7 and seven)  
+CARDINALITY gives presence of numeric entities expressed in both integer and written forms (7 and seven)    
 
-Problems Encountered:  
+*Problems Encountered*:  
 Not the only presence of cardinality in the sentences, can denote other numbers as well  
 Not necessarily in close proximity to words like murdered, killed, assaulted, etc  
 RegEx can identify only in int64 format  
