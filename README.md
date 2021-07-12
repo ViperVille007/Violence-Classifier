@@ -1,5 +1,14 @@
-# Violence-Classifier
-Building a classifier to detect the presence of violent incidents in newspaper articles
+# Identfication of topics in newspaper articles and detecing incidents of violence in newspaper articles
+
+
+I am grateful to, and sincerely thank the following eminent people for giving me the opportunity to work under their guidance and carry out the project work with ease:
+• Dr. Kiran Garimella(https://idss.mit.edu/staff/kiran-garimella/), IDSS, MIT, USA
+• Prof. Aaditya Dar(https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/aaditya-dar.html), ISB Hyderabad
+• Dr. Vasundhara Sirnate(https://en.wikipedia.org/wiki/Vasundhara_Sirnate), The Polis Project
+
+
+
+Building a multi-stage binary classifier for a highly imblance datatset, to detect the presence of violent incidents in newspaper articles.
 
 List of notebooks:
 
