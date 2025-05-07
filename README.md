@@ -1,6 +1,37 @@
 # Identification of Topic themes in Times of India articles and Detecting Incidents of Violence
 
 
+<div align="center">
+
+
+
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Ramanujan--Ganit--R1--14B--V1-FFD21E?logo=huggingface&style=for-the-badge)](https://huggingface.co/FractalAIResearch/Ramanujan-Ganit-R1-14B-V1)
+
+
+
+</div>
+
+
+
+<div align="center"> 
+
+[![Hugging Face](https://img.shields.io/badge/HFModels-Ramanujan--Ganit--R1-FFD21E?logo=huggingface&style=for-the-badge)](https://huggingface.co/collections/FractalAIResearch/ramanujan-ganit-r1-models-681b41a149682c7e32f8a9f2) 
+
+</div>
+
+
+
+<div align="center"> 
+
+[![Hugging Face](https://img.shields.io/badge/HFData-Ramanujan--Ganit--R1--Data-FFD21E?logo=huggingface&style=for-the-badge)](https://huggingface.co/collections/FractalAIResearch/ramanujan-ganit-r1-datasets-681b42fe6f20d4b11fc51d79) 
+
+</div>
+
+
+
+<p align="center"> <img src="./images/image.png" style="width: 100%;" id="title-icon">       </p>
+---
+
 I am grateful to, and sincerely thank the following eminent people for giving me the opportunity to work under their guidance and carry out the project work with ease:  
 • [Dr. Kiran Garimella](https://idss.mit.edu/staff/kiran-garimella/), IDSS, MIT, USA  
 • [Prof. Aaditya Dar](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/aaditya-dar.html), ISB Hyderabad  
